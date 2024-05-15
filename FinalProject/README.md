@@ -68,7 +68,7 @@ Method|Route|Description
 ***
 
 ### Database ER Diagram
-![Database ER Diagram](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/development/FinalProject/diagrams/db-er-diagram-final.png)
+![Database ER Diagram](https://github.com/sebinevj/csc342Project/blob/main/FinalProject/diagrams/db-er-diagram-final.png)
 
 ***
 
