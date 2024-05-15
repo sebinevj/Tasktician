@@ -23,13 +23,13 @@ Below are some draft wireframes representing the main views - both mobile and de
 
 |Weekly|Daily|
 |:-:|:-:|
-![Mobile Weekly View](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Proposal/Wireframes/mobile-weekly-view.png) | ![Mobile Daily View](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Proposal/Wireframes/mobile-daily-view.png)
+![Mobile Weekly View](https://github.com/sebinevj/csc342Project/blob/main/Proposal/Wireframes/mobile-weekly-view.png) | ![Mobile Daily View](https://github.com/sebinevj/csc342Project/blob/main/Proposal/Wireframes/mobile-daily-view.png)
 
 ### Desktop View
 
 |Weekly|Daily|
 |:-:|:-:|
-![Desktop Weekly View](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Proposal/Wireframes/desktop-weekly-view.png) | ![Desktop Daily View](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Proposal/Wireframes/desktop-daily-view.png)
+![Desktop Weekly View](https://github.com/sebinevj/csc342Project/blob/main/Proposal/Wireframes/desktop-weekly-view.png) | ![Desktop Daily View](https://github.com/sebinevj/csc342Project/blob/main/Proposal/Wireframes/desktop-daily-view.png)
 
 ## Team Contributions
 
