@@ -1,0 +1,31 @@
+.timers {
+    background-color: #baf9c8;
+    margin: 1rem;
+    padding: .5rem;
+    border-radius: 10px;
+}
+
+label {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.active-timers .list-group-item {
+    text-align: left;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.smaller {
+    font-size: .5rem;
+}
+
+.duration {
+    font-size: 1.5rem;
+    font: 'Poppins';
+}
+
+.span {
+    font-size: .8rem;
+}

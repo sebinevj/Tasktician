@@ -1,0 +1,19 @@
+.contentBlock_div{
+    border-radius: 15px;
+    border: 1px solid black;
+    background-color: #91A7D2;
+}
+
+.contentBlock_input:focus{
+    outline:none;
+}
+
+.deleteIcon {
+    width: .25rem;
+    height: .25rem;
+    padding: 0rem;
+}
+
+.deleteButton {
+    padding: 0rem;
+}

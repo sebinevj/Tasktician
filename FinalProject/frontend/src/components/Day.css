@@ -1,0 +1,33 @@
+
+
+.dayWrapper{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.contentWrapper{
+    position: absolute;
+}
+
+.dayName{
+    width: 150px;
+    height: 100px;
+    background-color: #b5c4e1;
+}
+
+.dayNameNull{
+    width: 80px;
+    height: 100px;
+}
+
+.table_list{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.table_list>div{
+    width: 150px;
+    height: 60px;
+}

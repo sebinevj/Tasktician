@@ -1,0 +1,22 @@
+.todo {
+    background-color: #e1baf9;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: .25rem;
+    height: 1rem;
+}
+
+.noTodos {
+    background-color: white; 
+    border-radius: 5px;
+    padding: .5rem;
+
+}

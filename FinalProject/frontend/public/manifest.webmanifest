@@ -1,0 +1,25 @@
+{
+    "name": "Tasktician",
+    "short_name": "Tasktician",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#bacff9",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "tasktician-logo-large.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "tasktician-logo-medium.png",
+        "sizes": "250x250",
+        "type": "image/png"
+      },
+      {
+        "src": "tasktician-logo-small.png",
+        "sizes": "100x100",
+        "type": "image/png"
+      }
+    ]
+}

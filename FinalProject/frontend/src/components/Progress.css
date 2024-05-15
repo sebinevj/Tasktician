@@ -1,0 +1,71 @@
+.prog {
+    background-color: #bacff9;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.progress-bar {
+    --bs-progress-bar-bg: #F9BABA;
+    --bs-progress-bar-color: black;
+}
+
+.progress {
+    margin: 1rem;
+    --bs-progress-height: 1.5rem;
+}
+
+.weekly {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.weekly-goals .list-group-item {
+    text-align: left;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.noGoals {
+    background-color: white; 
+    border-radius: 5px;
+    padding: .5rem;
+}
+
+
+.title {
+    font-size: 1.5rem;
+}
+
+.info {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: .5rem;
+}
+
+
+.icon {
+    width: .25rem;
+    height: .25rem;
+    padding: .25rem;
+}
+
+.hoursStudied {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#alert {
+    background-color: white;
+    font-size: .8rem;
+    padding: .3rem;
+    margin-top: .5rem;
+}
+
+.iconButton {
+    max-width: 2rem;
+    max-height: 2rem;
+}

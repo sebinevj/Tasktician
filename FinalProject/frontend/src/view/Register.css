@@ -1,0 +1,157 @@
+/*
+@font-face {
+    font-family: "neo-bold";
+    src: url("../fonts/VictorMonoAll/TTF/VictorMono-Bold.ttf");
+}
+
+@font-face {
+    font-family: "neo-norm";
+    src: url("../fonts/VictorMonoAll/TTF/VictorMono-Regular.ttf");
+}
+*/
+/*
+body{
+    font-family: "neo-bold";
+}
+*/
+
+.background{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    /*top: 50px;*/
+}
+
+.registercontainer{
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    background-color: #BACFF9;
+    border: 3px solid black;
+    box-shadow: 10px 10px 2px black;
+    width: 400px;
+    gap: 20px;
+    padding: 3.5rem;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.innerContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.innerLastContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 1rem;
+    position: relative;
+}
+
+.lastContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.innerContainer>input{
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 1px black;
+}
+
+.innerContainer>input:focus{
+    border-color: none;
+    outline: none;
+    background-color: gainsboro;
+}
+
+input[type="submit"]{
+    background-color: #E1baf9;
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 1px black;
+}
+
+input[type="submit"]:focus{
+    border-color: none;
+    outline: none;
+    background-color: gainsboro;
+}
+
+
+
+
+.labelContainer{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.validMessage{
+    color: black;
+    background-color: #baf9c8;
+    border-radius: 15px;
+    width: 250px;
+    opacity: 80%;
+    padding: .25rem
+}
+
+.invalidMessage{
+    color: black;
+    background-color: #F9BABA;
+    border-radius: 15px;
+    width: 250px;
+    opacity: 80%;
+    padding: .25rem
+}
+
+.submitbbutton {
+    background-color: #E1baf9;
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 1px black;
+    cursor: pointer;
+}
+
+.reviewbbutton {
+    background-color: #F9BABA;
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 1px black;
+    cursor: pointer;
+}
+
+.homeButton {
+    background-color: antiquewhite;
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 1px black;
+    cursor: pointer;
+    padding-top: 2px;
+}
+
+.alreadyHave {
+    padding-top: 1rem;
+}

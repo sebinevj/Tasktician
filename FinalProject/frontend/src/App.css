@@ -1,0 +1,52 @@
+@media only screen and (max-width: 780px) {
+  .App {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    gap: 10px;
+  }
+
+  #root{
+    display: flex;
+    overflow: visible;
+    flex-grow: 0;
+  }
+
+  body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+  }
+}
+@media only screen and (min-width: 780px) {
+  body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+  }
+
+  #root{
+    display: flex;
+    overflow: hidden;
+    flex-grow: 1;
+  }
+  
+  .App {
+    display: flex;
+    overflow: auto;
+    /* flex-grow: 1; */
+    gap: 30px;
+  }
+}
+
+
+
+
+.side {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  
+}
+

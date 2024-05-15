@@ -1,0 +1,14 @@
+.prof {
+    background-color: #EDE8BB;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    font: 'Poppins';
+}
+
+.info {
+    padding: .5rem;
+    font-size: 1.5rem;
+    text-align: left;
+}
+

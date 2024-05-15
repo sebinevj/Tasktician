@@ -1,0 +1,49 @@
+
+.background{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    /*top: 100px;*/
+}
+
+.logincontainer{
+    display: flex;
+    border-radius: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding: 3.5rem;
+    background-color: #BACFF9;
+    border: 3px solid black;
+    box-shadow: 10px 10px 2px black;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logincontainer >.innerContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.errorMessage{
+    color: black;
+    background-color: #F9BABA;
+    border-radius: 15px;
+    width: 250px;
+    opacity: 80%;
+    padding: .25rem
+
+}

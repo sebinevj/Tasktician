@@ -1,0 +1,72 @@
+@media only screen and (max-width: 780px) {
+    .note{
+        max-width: 130px;
+    }
+}
+
+@media only screen and (min-width: 780px) {
+    .note {
+        height: 100vh;
+        
+    }
+}
+
+
+.note {
+    background-color: #DDE8FC;
+    max-width: 430px;
+    /* flex: 1 1 0; */
+    -webkit-box-shadow: 3px 3px 3px 2px #050504;
+    box-shadow: 3px 3px 3px 2px #050504;
+    min-width: 430px;
+}
+
+.nav-link {
+    color: black
+}
+.nav-link:hover {
+    color: black
+}
+
+.nav-tabs {
+    background-color: #DDE8FC;
+    border-color: none;
+}
+
+.nav-tabs:active {
+    background-color: #DDE8FC;
+}
+
+
+#tabs-tab-todo:hover, #tabs-tab-todo:active {
+    background-color: #E1BAF9;
+}
+
+#tabs-tab-todo {
+    background-color: #E7C7FA;
+}
+
+#tabs-tab-progress:hover, #tabs-tab-progress:active {
+    background-color: #BACFF9;
+}
+
+#tabs-tab-progress {
+    background-color: #C6D8FD;
+}
+
+#tabs-tab-timers:hover, #tabs-tab-timers:active {
+    background-color: #BAF9c8;
+}
+
+#tabs-tab-timers {
+    background-color: #D0FCD9;
+}
+
+#tabs-tab-profile:hover, #tabs-tab-profile:active {
+    background-color: #ECE49B;
+}
+
+#tabs-tab-profile {
+    background-color: #EDE8BB;
+}
+
