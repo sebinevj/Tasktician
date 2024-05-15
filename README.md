@@ -6,4 +6,4 @@
 ## Index
 
 ### [Proposal](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Proposal/README.md)
-### [Final Project](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Final-Project/README.md)
+### [Final Project](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/FinalProject/README.md)
