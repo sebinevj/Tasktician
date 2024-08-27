@@ -1,9 +1,9 @@
-# CSC 342 Project Repository - Group S (dmbojo, dkang8, svjacobs)
+# CSC 342 Project Repository
 ### ***Tasktician (Study Tracker + Productivity Tool)***
 
 ***
 
 ## Index
 
-### [Proposal](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/Proposal/README.md)
-### [Final Project](https://github.ncsu.edu/engr-csc342/csc342-2024Spring-GroupS/blob/main/FinalProject/README.md)
+### [Proposal](https://github.com/sebinevj/Tasktician/blob/main/Proposal/README.md)
+### [Final Project](https://github.com/sebinevj/Tasktician/blob/main/FinalProject/README.md)
